@@ -1,32 +1,77 @@
-👋 Hi, I'm Aarti Gond!
 
-🎓 BCA Student | Aspiring Software Developer 💻
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aarti | My Portfolio</title>
 
-Welcome to my GitHub profile!
+    <style>
+        body {
+            background-color: #f5efff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 30px;
+        }
 
-🌸 About Me
+        .card {
+            background-color: white;
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 4px 15px #ddd;
+        }
 
-- I am a BCA student.
-- I am a beginner in programming.
-- I love learning new technologies.
-- My goal is to become a skilled software developer.
+        h1 {
+            color: #8b5cf6;
+        }
 
-🛠️ Currently Learning
+        h2 {
+            color: #444;
+        }
 
-- HTML
-- CSS
-- Python
-- Java
-  
+        p {
+            color: #666;
+            line-height: 1.7;
+        }
 
-🎯 My Goals
+        .button {
+            background-color: #8b5cf6;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+        }
+    </style>
+</head>
 
-- Learn coding step by step.
-- Build interesting projects.
-- Improve my programming skills.
-0
-🔗 Connect With Me
+<body>
 
-- LinkedIn: "My LinkedIn" (https://www.linkedin.com/in/aarti-gond-709912438/)
+    <div class="card">
 
-⭐ Thanks for visiting my profile!
+        <h1>Hi, I'm Aarti! 👋</h1>
+
+        <h2>BCA Student | Aspiring Developer</h2>
+
+        <p>
+            I am learning programming and web development.
+            I love exploring new technologies
+            and creating new things.
+        </p>
+
+        <h2>My Skills 🌱</h2>
+        <p>HTML | CSS | Python</p>
+
+        <h2>My Goal 🚀</h2>
+        <p>To become a professional software developer.</p>
+
+        <br>
+
+        <a class="button"
+           href="https://www.linkedin.com/">
+            Connect With Me
+        </a>
+
+    </div>
+
+</body>
+</html>
